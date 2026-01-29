@@ -1,0 +1,23 @@
+# Web Framework & Server
+fastapi
+uvicorn
+python-multipart
+nest_asyncio
+
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+Pillow
+
+# Vision
+ultralytics
+torch
+
+# VLM
+git+https://github.com/huggingface/transformers.git
+accelerate
+bitsandbytes
+qwen-vl-utils
