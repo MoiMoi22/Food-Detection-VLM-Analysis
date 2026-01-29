@@ -52,9 +52,11 @@ The model achieved outstanding performance on the validation set with an overall
 ### 🖼️ Sample Detections
 
 <p align="center">
-  <img src="images/result_1.jpg" width="31%" alt="Inference result 1"/>&nbsp;
-  <img src="images/result_2.jpg" width="31%" alt="Inference result 2"/>&nbsp;
-  <img src="images/result_3.jpg" width="31%" alt="Inference result 3"/>
+  <img src="images/result_1.jpg" width="80%" alt="Inference result 1"/>
+  <br><br>
+  <img src="images/result_2.jpg" width="80%" alt="Inference result 2"/>
+  <br><br>
+  <img src="images/result_3.jpg" width="80%" alt="Inference result 3"/>
 </p>
 
 ### 3. Deployment
