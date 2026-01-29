@@ -39,12 +39,13 @@ The model achieved outstanding performance on the validation set with an overall
 
 ### 📈 Training Analysis & Visualizations
 
-<div align="center">
-  <img src="images/confusion_matrix.jpg" alt="Confusion Matrix" width="45%">
-  <img src="images/results.jpg" alt="Training Loss & Metrics" width="45%">
-</div>
 <p align="center">
-  <em>Figure 2: Confusion Matrix (left) and Training Metrics over epochs (right).</em>
+  <img src="images/confusion_matrix.jpg" alt="Confusion Matrix" width="80%">
+  <br><br>
+  <img src="images/results.jpg" alt="Training Loss & Metrics" width="80%">
+</p>
+<p align="center">
+  <em>Figure 2: Confusion Matrix (top) and Training Metrics over epochs (bottom).</em>
 </p>
 
 <br>
